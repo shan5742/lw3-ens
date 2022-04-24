@@ -1,0 +1,17 @@
+.networkErrorContainer {
+  display: flex;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.networkErrorText {
+  font-weight: 900;
+  font-size: 24px;
+  margin: 0;
+  color: white;
+}
